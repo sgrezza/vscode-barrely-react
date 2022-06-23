@@ -17,7 +17,8 @@
     "menus": {
       "explorer/context": [
         {
-          "command": "barrely-react.makeBarrel"
+          "command": "barrely-react.makeBarrel",
+          "group": "2_menu@5"
         }
       ]
     },
